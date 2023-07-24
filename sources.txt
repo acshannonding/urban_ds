@@ -1,0 +1,53 @@
+https://github.com/gboeing/ppd534
+https://github.com/gboeing/ppd599
+pythongis.org
+https://geographicdata.science/book/intro.html
+https://inferentialthinking.com/chapters/01/what-is-data-science.html
+https://bdpedigo.github.io/networks-course/landing.html
+http://rafalab.dfci.harvard.edu/dsbook/
+https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view
+3 books
+https://learning.oreilly.com/library/view/learning-data-science/9781098112998/
+https://learning.oreilly.com/library/view/causal-inference-in/9781098140243/
+https://learning.oreilly.com/library/view/modeling-and-simulation/9781098156855/
+https://learning.oreilly.com/library/view/learning-systems-thinking/9781098151324/
+https://learning.oreilly.com/library/view/network-science/9781119898917/
+https://learning.oreilly.com/library/view/essential-math-for/9781098102920/
+https://learning.oreilly.com/library/view/data-science-from/9781492041122/
+https://learning.oreilly.com/library/view/python-for-geospatial/9781098104788/
+https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/
+https://learning.oreilly.com/library/view/statistical-rethinking-2nd/9780429639142/
+https://hastie.su.domains/ISLR2/ISLRv2_website.pdf
+https://learning.oreilly.com/library/view/transportation-statistics-and/9781439894545/
+https://learning.oreilly.com/library/view/think-bayes-2nd/9781492089452/
+https://learning.oreilly.com/library/view/think-stats-2nd/9781491907344/
+https://learning.oreilly.com/library/view/think-complexity-2nd/9781492040194/
+https://learning.oreilly.com/library/view/network-science-with/9781801073691/
+https://learning.oreilly.com/library/view/applied-geospatial-data/9781803238128/
+https://learning.oreilly.com/library/view/the-shape-of/9781098156886/
+
+https://irhum.github.io/blog/resilientsystems/
+Alain Bertuad
+
+maybe
+https://learning.oreilly.com/library/view/introduction-to-biological/9781420010367/
+https://learning.oreilly.com/library/view/spatio-temporal-methods-in/9781482237047/
+https://learning.oreilly.com/library/view/distributed-sensor-networks/9781439862834/
+https://learning.oreilly.com/library/view/nonparametric-statistical-methods/9781498787277/
+https://learning.oreilly.com/library/view/urban-high-resolution-remote/9781000287714/
+
+
+
+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
+
+jb build --all urban_ds_handbook
+---- cd urban_ds
+
+git add ./*
+git commit -m "adding my first book!"
+git push
+
+cd urban_ds_handbook
+ghp-import -n -p -f _build/html
+
+https://acshannonding.github.io/urban_ds/
